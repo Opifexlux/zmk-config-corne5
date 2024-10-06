@@ -39,7 +39,7 @@
             //                    | GUI |  0  | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB     &bt BT_SEL 4  &trans        &kp N7    &kp N8  &kp N9       &trans    &kp UP    &trans     &trans  &trans  &kp BSPC
+&kp TAB     &bt BT_SEL 4  &bt BT_CLR    &kp N7    &kp N8  &kp N9       &trans    &kp UP    &trans     &trans  &trans  &kp BSPC
 &bt BT_CLR  &bt BT_SEL 2  &bt BT_SEL 3  &kp N4    &kp N5  &kp N6       &kp LEFT  &trans    &kp RIGHT  &trans  &trans  &trans
 &kp LSHFT   &bt BT_SEL 0  &bt BT_SEL 1  &kp N1    &kp N2  &kp N3       &trans    &kp DOWN  &trans     &trans  &trans  &trans
                                         &kp LGUI  &kp N0  &kp SPACE    &kp RET   &trans    &kp RALT
